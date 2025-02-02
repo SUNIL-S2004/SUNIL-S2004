@@ -62,14 +62,14 @@ I am a passionate **Full Stack Developer** with a strong background in **Compute
 ---
 
 ## 📌 Featured Projects  
-🚀 **[Animal Intrusion Detection System](https://github.com/your-repo)**  
+🚀 **[Animal Intrusion Detection System]**  
 🔹 Uses **YOLOv8** & **OpenCV** to detect wildlife intrusion near farmlands  
 🔹 Real-time alerts via **SMS & Firebase**  
 🔹 Integrated with **NVR & PoE** for network connectivity  
 
-🛤️ **[Railway Station Indoor Navigation](https://github.com/your-repo)**  
+🛤️ **[Railway Station Indoor Navigation]**  
 🔹 Provides **3D navigation, voice assistance, & live updates**  
-🔹 Developed using **Azure Maps, Flutter SDK, & PostgreSQL**  
+🔹 Developed using **QGIS, Open layer, Flutter SDK, & PostgreSQL**  
 🔹 Supports **offline QR-based navigation**  
 
 ---

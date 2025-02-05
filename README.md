@@ -63,9 +63,11 @@ I am a passionate **Full Stack Developer** with a strong background in **Compute
 
 ## 📌 Featured Projects  
 🚀 **[Animal Intrusion Detection System]**  
-🔹 Uses **YOLOv8** & **OpenCV** to detect wildlife intrusion near farmlands  
-🔹 Real-time alerts via **SMS & Firebase**  
-🔹 Integrated with **NVR & PoE** for network connectivity  
+🔹 Real-time animal detection using **YOLOv8** & **OpenCV***
+🔹 **LSTM**-based prediction to anticipate wildlife movements
+🔹 **AI-driven Safe Zone** to deter animals & prevent conflicts
+🔹 Instant alerts via app & SMS to landowners & forest officers
+🔹 Cost-effective surveillance with NVR & PoE cable
 
 🛤️ **[Railway Station Indoor Navigation]**  
 🔹 Provides **3D navigation, voice assistance, & live updates**  

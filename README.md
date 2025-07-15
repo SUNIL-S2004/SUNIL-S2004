@@ -76,7 +76,9 @@ I am a passionate **Full Stack Developer** with a strong background in **Compute
 🔹 Supports **offline QR-based navigation**  
 
 ---
+### 🚀 Competitive Programming
 
+[![Leetcode Stats](https://leetcard.jacoblin.cool/VibheeshKumar2424?theme=dark&font=Sulphur%20Point&ext=activity)](https://leetcode.com/u/sunil_s2004/)
 ## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sunil-s2004&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
